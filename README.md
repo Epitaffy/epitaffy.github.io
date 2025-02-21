@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Добро+пожаловать+на+GitHub+профиль+Эдуарда+и+Регины!)](https://git.io/typing-svg)
 
-[![Twitter Badge](https://img.shields.io/badge/-@VasuJaiswal00-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VasuJaiswal00)](https://twitter.com/VasuJaiswal00) [![Linkedin Badge](https://img.shields.io/badge/-VasudevJaiswal-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/VasudevJaiswal) [![Mail Badge](https://img.shields.io/badge/-V_vasu49-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/VasudevJaiswal) [![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vasujaiswal00@gmail.com)
 
 <br> 
 
@@ -77,23 +76,8 @@
 
 </p>
 
-### 📫 Связь
-
-Если хотите связаться или обсудить проекты, мы всегда открыты для общения!
-
-<p align="center">
-
-    <a href="https://twitter.com/VasudevJaiswal_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
-
-    <a href="https://in.linkedin.com/in/VasudevJaiswal" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
-
-    <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
-
-    <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="Портфолио"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/external-link-line.svg"></a>
-
-</p>
 
 <br/>
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/epitaffy/count.svg) -->
 
