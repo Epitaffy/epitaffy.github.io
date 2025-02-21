@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Профиль студентов по информационной безопасности</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Общие стили */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 20px 10px;
+      background-color: #222;
+      color: #fff;
+    }
+    h1, h2 {
+      margin: 0 0 10px;
+      font-weight: normal;
+    }
+    p {
+      margin: 5px 0;
+      line-height: 1.6;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 20px auto;
+    }
+    /* Секция с резюме студентов */
+    .resume-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .resume {
+      background-color: #fff;
+      flex: 1;
+      min-width: 300px;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    .resume h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+      margin-bottom: 15px;
+    }
+    .contact-info, .skills, .experience, .education, .additional, .infosec {
+      margin-bottom: 20px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+    @media (max-width: 768px) {
+      .resume-container {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Профиль студентов</h1>
+    <p>Информационная безопасность, компьютерные сети и сопутствующие технологии</p>
+  </header>
+
+  <div class="container">
+    <div class="resume-container">
+      <!-- Резюме Турьянова Эдуарда Маратовича -->
+      <div class="resume">
+        <h2>Турьянов Эдуард Маратович</h2>
+        <div class="contact-info">
+          <h3>Контактная информация</h3>
+          <p>Email: eduardturyanov1@gmail.com</p>
+          <p>GitHub: <a href="https://github.com/Epitaffy" target="_blank">github.com/Epitaffy</a></p>
+        </div>
+        <div class="skills">
+          <h3>Навыки</h3>
+          <ul>
+            <li>Системное администрирование</li>
+            <li>Информационная безопасность</li>
+            <li>Компьютерные сети и протоколы</li>
+            <li>Основы криптографии</li>
+          </ul>
+        </div>
+        <div class="experience">
+          <h3>Опыт работы</h3>
+          <ul>
+            <li><strong>Компания «Капитал МС»</strong> — Системный администратор (2024 - настоящее время)</li>
+          </ul>
+        </div>
+        <div class="education">
+          <h3>Образование</h3>
+          <ul>
+            <li><strong>Уфимский государственный нефтяной технический университет</strong> (УГНТУ) 2022-2026<br>Группа БПИ-22-01 (Цифровые технологии и защита информации)</li>
+          </ul>
+        </div>
+        <div class="additional">
+          <h3>Дополнительное образование</h3>
+          <ul>
+            <li>Курсы по информационной безопасности</li>
+            <li>Тренинги по защите информации</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Резюме Гумеровой Регины Руслановны -->
+      <div class="resume">
+        <h2>Гумерова Регина Руслановна</h2>
+        <div class="contact-info">
+          <h3>Контактная информация</h3>
+          <p>Email: gumerova.regina.3006@gmail.com</p>
+          <p>GitHub: <a href="https://github.com/Epitaffy" target="_blank">github.com/Epitaffy</a></p>
+        </div>
+        <div class="skills">
+          <h3>Навыки</h3>
+          <ul>
+            <li>Анализ уязвимостей</li>
+            <li>Информационная безопасность</li>
+            <li>Защита данных и криптография</li>
+            <li>Проектирование компьютерных сетей</li>
+          </ul>
+        </div>
+        <div class="experience">
+          <h3>Опыт работы</h3>
+          <ul>
+            <li><strong>Стажировка в отделе безопасности (Ovodov Cybersecurity)</strong> — Практикант</li>
+          </ul>
+        </div>
+        <div class="education">
+          <h3>Образование</h3>
+          <ul>
+            <li><strong>Уфимский государственный нефтяной технический университет</strong> (УГНТУ) 2022-2026<br>Группа БПИ-22-01 (Цифровые технологии и защита информации)</li>
+          </ul>
+        </div>
+        <div class="additional">
+          <h3>Дополнительное образование</h3>
+          <ul>
+            <li>Курсы по компьютерным сетям и защите информации</li>
+            <li>Углублённое изучение технологий информационной безопасности</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Турьянов Э.М и Гумерова Р.Р. Все права защищены.</p>
+  </footer>
+</body>
+</html>
